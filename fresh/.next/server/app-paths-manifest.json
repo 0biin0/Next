@@ -1,4 +1,7 @@
 {
+  "/abc/page": "app/abc/page.js",
+  "/abc/def/page": "app/abc/def/page.js",
+  "/list/page": "app/list/page.js",
   "/page": "app/page.js",
-  "/list/page": "app/list/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

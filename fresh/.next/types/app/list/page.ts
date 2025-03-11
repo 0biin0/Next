@@ -1,4 +1,4 @@
-// File: /Users/kimhyobin/Desktop/next/fresh/app/list/page.js
+// File: /Users/kimhyobin/Desktop/khb/Next/fresh/app/list/page.js
 import * as entry from '../../../../app/list/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
